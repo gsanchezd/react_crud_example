@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
+import Page from './containers/Page'
+
 //import Producto from './productos/Producto';
-import Productos from './productos/Productos';
 
 function App() {
   return (
-    <Productos />
-
+    <Page />
   );
 }
 
