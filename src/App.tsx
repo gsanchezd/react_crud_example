@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
 import Productos from './productos/Productos'
+import 'bootstrap/dist/css/bootstrap.css';
 
 //import Producto from './productos/Producto';
 
